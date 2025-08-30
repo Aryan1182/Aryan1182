@@ -46,7 +46,7 @@ Exploring the **MERN stack**, mastering **Java DSA**, and developing modern web 
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan1182&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff" width="450" />
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ Exploring the **MERN stack**, mastering **Java DSA**, and developing modern web 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&line=00f5ff&color=00f5ff" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan1182&theme=react-dark&hide_border=true&line=00f5ff&color=00f5ff" width="800" />
 </p>
 
 ---
